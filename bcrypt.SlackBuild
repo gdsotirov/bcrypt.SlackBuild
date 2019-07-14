@@ -19,13 +19,13 @@
 #
 # Visit SlackPack at http://sotirov-bg.net/slackpack/
 #
-# $Id: bcrypt.SlackBuild,v 1.3 2019/01/17 09:40:17 gsotirov Exp $
+# $Id: bcrypt.SlackBuild,v 1.4 2019/07/14 11:55:28 gsotirov Exp $
 #
 
 . ../../slack-package.conf
 
 NAME=bcrypt
-VERSION=3.1.6
+VERSION=3.1.7
 ARCH=${ARCH:-i586}
 BUILD=${BUILD:-1}
 
